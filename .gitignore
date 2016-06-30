@@ -1,0 +1,7 @@
+*.pyc
+.cache
+.eggs
+Tankstelle.egg-info
+run.py
+*.log
+
